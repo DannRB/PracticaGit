@@ -36,5 +36,7 @@ def main():
         else:
             print("Movimiento no válido.")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
+
+#popopopoppo
