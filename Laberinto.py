@@ -1,4 +1,4 @@
-#debo arreglar este codigo jaja
+#debo aprender los comandos
 FILAS = 5
 COLUMNAS = 5
 META_FILA = FILAS - 1
